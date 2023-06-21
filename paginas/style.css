@@ -1,0 +1,140 @@
+body{
+    background: linear-gradient(to bottom , black, #a1a1a1);
+    }
+img{
+    align-items: center;
+    justify-content: center;
+}
+.nav{
+    border-bottom: solid;
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.logo{
+    width: 760px;
+    height: 150px;
+
+   
+}
+.divBem{
+    margin-top: 20px;
+    width: 300px;
+    height: 150px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.divPerfil{
+    
+    width: 760px;
+    height: 150px;
+
+}
+.centerCont{
+    display: flex;
+    justify-content: center;
+}
+.divConteudo{
+    width: 80%;
+    height: 1050px;
+    background-color: white;
+    border-radius: 50px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+
+}
+.divSaldo{
+    background-color: #4b8bf2;
+    width: 300px;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    border-color: white;
+    margin-right: 300px;
+}
+.textoSaldo{
+    margin-left: 20px;
+}
+.valor{
+    font-size: 35px;
+    font-family: 'Lora', serif;
+
+}
+.divImagem{
+    align-items: center;
+    margin-left: 50px;
+}
+.texto{
+    font-family: 'Fira Sans', sans-serif;
+}
+.card{
+    width: 200px;
+    height: 200px;
+}
+.divSec{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    align-items: center;
+    
+}
+
+
+
+  .divCards1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  
+  }
+  .divCards2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  
+  }
+  .divCards3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+  }
+  .card-text{
+    font-size: 10px;
+    color: #5C5C5C;
+    
+  }
+  .divMascote{
+    display: flex;
+    align-items: center;
+  }
+  .divTextoMascote{
+    margin-left: 30px;
+    font-family: 'Fira Sans', sans-serif;
+    color: white;
+    font-weight: bold;
+   text-align: center;
+   font-size: 20px;
+ }
